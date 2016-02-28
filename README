@@ -1,0 +1,7 @@
+Example of extending QML with C++ using QmlApplicationEngine to display the contents of the /proc/cpuinfo file via a C++ QAbstractListModel subclass.
+
+Developed and tested on Linux Mint 17-2 with Qt Creator 3.5.1 (opensource)
+Based on Qt 5.5.1, importing QtQuick 2.5, QTQuick.Window 2.2 and CPUInfo 1.0
+ 
+Not tested on Mac OS or Windows platforms.
+
